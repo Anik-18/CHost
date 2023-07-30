@@ -778,7 +778,7 @@ padding: 6px 12px;
 border-radius: 0;
 }
  .business-stats:before {
-content: '';
+content: '6850';
 margin: 17px;
 display: block;
 border: currentcolor;
@@ -786,6 +786,7 @@ height: 100px;
 border-radius: 50%;
 position: absolute;
 width: 100px;
+margin-top: 0;
 }
 /***********************
 ********* Footer ******
